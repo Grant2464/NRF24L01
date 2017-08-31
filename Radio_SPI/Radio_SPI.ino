@@ -1,5 +1,5 @@
 #include <SPI.h>
-#include "definition.h"
+#include "Radio_SPI.h"
 
 #define csn_pin 8
 #define payload_size 32

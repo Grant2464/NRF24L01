@@ -1,3 +1,5 @@
+#ifndef H_RADIO_SPI
+#define H_RADIO_SPI
 #define NRF_CONFIG      0x00
 #define EN_AA       0x01
 #define EN_RXADDR   0x02
@@ -112,3 +114,4 @@ static const uint8_t child_pipe_enable[] PROGMEM =
 {
   ERX_P0, ERX_P1, ERX_P2, ERX_P3, ERX_P4, ERX_P5
 };
+#endif
