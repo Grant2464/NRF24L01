@@ -1,5 +1,5 @@
 # NRF24L01
-SCRAPPED PROJECT 
+SCRAPPED PROJECT (Non functional)
 ----------------------------------------------------------------------------------------------------------
 A simple NRF24L01 sketch for arduino
 Uses the SPI library and borrows commands from the RF24 Library (https://github.com/maniacbug/RF24) to make a communication between 2 NRF24's simple.
